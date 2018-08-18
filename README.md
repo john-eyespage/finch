@@ -5,7 +5,7 @@
 
 * simplifies code by using high-level TF interfaces: **tf.layers**, **tf.data**, **tf.estimator**;
 
-* produces lots of clean Notebooks to make life easy;
+* use Jupyter Notebooks to view results directly;
 
 * can be run on CPU in reasonable time;
 
