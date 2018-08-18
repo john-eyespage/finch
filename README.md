@@ -40,32 +40,28 @@
 #### Word Embedding（词向量）
 <img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/decoration_6.png" height='100'>
 
-* Penn Treebank（PTB 语料库）
+ * Skip-Gram &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/word2vec_skipgram.ipynb)
 
-    * Skip-Gram &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/word2vec_skipgram.ipynb)
-
-    * CBOW &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/word2vec_cbow.ipynb)
+ * CBOW &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/word2vec_cbow.ipynb)
 
 #### Text Classification（文本分类）
 <img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/decoration_2.png" height='100'>
 
-* IMDB Movie Reviews Sentiment（电影评论情感分类）
+ * TF-IDF + LR &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/tfidf_imdb_test.ipynb)
 
-    * TF-IDF + LR &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/tfidf_imdb_test.ipynb)
+ * Text-CNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/concat_conv_1d_text_clf_imdb_test.ipynb)
 
-    * Text-CNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/concat_conv_1d_text_clf_imdb_test.ipynb)
+     * Word + Char Embedding &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/char_embedding.ipynb)
 
-        * Word + Char Embedding &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/char_embedding.ipynb)
+     * Gated CNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/glu_imdb_test.ipynb)
 
-        * Gated CNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/glu_imdb_test.ipynb)
+     * ConvLSTM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/convlstm_imdb_test.ipynb)
 
-        * ConvLSTM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/convlstm_imdb_test.ipynb)
+ * Bi-RNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/rnn_text_clf_imdb_test.ipynb)
 
-    * Bi-RNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/rnn_text_clf_imdb_test.ipynb)
+ * Attention-Pooling &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/only_attn_text_clf_varlen_imdb_test.ipynb)
 
-    * Attention-Pooling &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/only_attn_text_clf_varlen_imdb_test.ipynb)
-
-    * FastText &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/fasttext_imdb_test.ipynb)
+ * FastText &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/tf-estimator/fasttext_imdb_test.ipynb)
 
 #### Text Generation（文本生成）
 <img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/decoration_5.png" height='100'>
