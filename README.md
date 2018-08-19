@@ -13,6 +13,7 @@
     * [Question Answering（问题回答）](https://github.com/zhedongzheng/finch/blob/master/README.md#question-answering%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94)
     * [Knowledge Graph（知识图谱）](https://github.com/zhedongzheng/finch#knowledge-graph%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
     * [TensorFlow](https://github.com/zhedongzheng/finch/blob/master/README.md#tensorflow)
+    * [Spark](https://github.com/zhedongzheng/finch/blob/master/README.md#spark)
 * [Speech](https://github.com/zhedongzheng/finch#speech%E8%AF%AD%E9%9F%B3)
 * [Vision](https://github.com/zhedongzheng/finch#computer-vision%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
 * [Reinforcement Learning](https://github.com/zhedongzheng/finch#reinforcement-learning%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
@@ -147,6 +148,10 @@
     * [TF Estimator Template](https://github.com/zhedongzheng/finch/tree/master/src_tf/templates/tf_estimator_template)
 
     * [TF Dataset Template](https://github.com/zhedongzheng/finch/tree/master/src_tf/templates/tf_dataset_template)
+
+#### Spark
+
+* [Text Classification](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_spark/imdb.ipynb)
 
 #### Speech（语音)
 
