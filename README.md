@@ -150,6 +150,7 @@
     * [TF Dataset Template](https://github.com/zhedongzheng/finch/tree/master/src_tf/templates/tf_dataset_template)
 
 #### Spark
+<img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/spark.png" height='130'>
 
 * [Text Classification](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_spark/imdb.ipynb)
 
