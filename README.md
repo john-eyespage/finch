@@ -1,15 +1,7 @@
 <img src="https://github.com/zhedongzheng/finch/blob/master/src_nlp/assets/tensorflow_nlp.png" height='100'>
 
 ---
-#### Why This Project?
 
-* simplifies code by using high-level TF interfaces: **tf.layers**, **tf.data**, **tf.estimator**;
-
-* use Jupyter Notebooks to view results directly;
-
-* can be run on CPU in reasonable time;
-
----
 #### Contents
 * NLP
     * [Word Embedding（词向量）](https://github.com/zhedongzheng/finch#word-embedding%E8%AF%8D%E5%90%91%E9%87%8F)
